@@ -1,1 +1,0 @@
-в папке source library разархивировать два файла artifacts и Source\Library\PackageCache\com.unity.burst@1.6.6\.Runtime\hostmac
