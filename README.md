@@ -1,5 +1,5 @@
 # DoodleDuck platformer game
-link to yandex games https://yandex.ru/games/#app=228371
+Link to yandex games https://yandex.ru/games/#app=228371
 ### Description / Описание
 Take your time jumping from platform to platform to set a new record among all ducks.
 There will be enemies on the way, try to dodge them. By collecting coins, open all types of ducks to make the game more comfortable and more fun.
